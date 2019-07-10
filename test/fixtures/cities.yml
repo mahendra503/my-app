@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  picode: 1
+  area: MyText
+  state: one
+
+two:
+  name: MyString
+  picode: 1
+  area: MyText
+  state: two
